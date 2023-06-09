@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Account_tbl">
+    <Key>
+      <PropertyRef Name="AccountID" />
+    </Key>
+    <Property Name="AccountID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AccountName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Currency" Type="nvarchar" MaxLength="20" />
+    <Property Name="AccountType" Type="nvarchar" MaxLength="20" />
+    <Property Name="TransferAmount" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="AccountOwnerAssociation">
+    <Key>
+      <PropertyRef Name="AccountID" />
+      <PropertyRef Name="OwnerID" />
+    </Key>
+    <Property Name="AccountID" Type="int" Nullable="false" />
+    <Property Name="OwnerID" Type="nvarchar" MaxLength="9" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Owner_tbl">
+    <Key>
+      <PropertyRef Name="OwnerID" />
+    </Key>
+    <Property Name="OwnerID" Type="nvarchar" MaxLength="9" Nullable="false" />
+    <Property Name="FName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Gender" Type="nvarchar" MaxLength="6" />
+    <Property Name="DateOfBirth" Type="date" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_AccountOwnerAssociation_Account_tbl">
+    <End Role="Account_tbl" Type="Self.Account_tbl" Multiplicity="1" />
+    <End Role="AccountOwnerAssociation" Type="Self.AccountOwnerAssociation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account_tbl">
+        <PropertyRef Name="AccountID" />
+      </Principal>
+      <Dependent Role="AccountOwnerAssociation">
+        <PropertyRef Name="AccountID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AccountOwnerAssociation_Owner_tbl">
+    <End Role="Owner_tbl" Type="Self.Owner_tbl" Multiplicity="1" />
+    <End Role="AccountOwnerAssociation" Type="Self.AccountOwnerAssociation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Owner_tbl">
+        <PropertyRef Name="OwnerID" />
+      </Principal>
+      <Dependent Role="AccountOwnerAssociation">
+        <PropertyRef Name="OwnerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BankDBModelStoreContainer">
+    <EntitySet Name="Account_tbl" EntityType="Self.Account_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AccountOwnerAssociation" EntityType="Self.AccountOwnerAssociation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Owner_tbl" EntityType="Self.Owner_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_AccountOwnerAssociation_Account_tbl" Association="Self.FK_AccountOwnerAssociation_Account_tbl">
+      <End Role="Account_tbl" EntitySet="Account_tbl" />
+      <End Role="AccountOwnerAssociation" EntitySet="AccountOwnerAssociation" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AccountOwnerAssociation_Owner_tbl" Association="Self.FK_AccountOwnerAssociation_Owner_tbl">
+      <End Role="Owner_tbl" EntitySet="Owner_tbl" />
+      <End Role="AccountOwnerAssociation" EntitySet="AccountOwnerAssociation" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

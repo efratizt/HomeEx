@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Account_tbl">
+    <Key>
+      <PropertyRef Name="AccountID" />
+    </Key>
+    <Property Name="AccountID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AccountName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Currency" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="AccountType" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TransferAmount" Type="Decimal" Precision="18" Scale="2" />
+    <NavigationProperty Name="Owner_tbl" Relationship="Self.AccountOwnerAssociation" FromRole="Account_tbl" ToRole="Owner_tbl" />
+  </EntityType>
+  <EntityType Name="Owner_tbl">
+    <Key>
+      <PropertyRef Name="OwnerID" />
+    </Key>
+    <Property Name="OwnerID" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="FName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Gender" Type="String" MaxLength="6" FixedLength="false" Unicode="true" />
+    <Property Name="DateOfBirth" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Account_tbl" Relationship="Self.AccountOwnerAssociation" FromRole="Owner_tbl" ToRole="Account_tbl" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="AccountOwnerAssociation">
+    <End Role="Account_tbl" Type="Self.Account_tbl" Multiplicity="*" />
+    <End Role="Owner_tbl" Type="Self.Owner_tbl" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="BankDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Account_tbl" EntityType="Self.Account_tbl" />
+    <EntitySet Name="Owner_tbl" EntityType="Self.Owner_tbl" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="AccountOwnerAssociation" Association="Self.AccountOwnerAssociation">
+      <End Role="Account_tbl" EntitySet="Account_tbl" />
+      <End Role="Owner_tbl" EntitySet="Owner_tbl" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,351 @@
+﻿++Solution 'WebApp' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:WebApp.sln
+++dal1
+i:{00000000-0000-0000-0000-000000000000}:dal1
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++Properties
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\properties\
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\properties\
+++References
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++App.Config
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\app.config
+++Class1.cs
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\class1.cs
+++Model1.edmx
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\model1.edmx
+++packages.config
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\packages.config
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\packages.config
+++AssemblyInfo.cs
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\properties\assemblyinfo.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\properties\assemblyinfo.cs
+++EntityFramework
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++EntityFramework.SqlServer
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++Microsoft.CSharp
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.ComponentModel.DataAnnotations
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Core
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Data
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Data.DataSetExtensions
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Net.Http
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Runtime.Serialization
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Security
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+++System.Xml
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Xml.Linq
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++Model1.Context.tt
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\model1.context.tt
+++Model1.Designer.cs
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\model1.designer.cs
+++Model1.edmx.diagram
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\model1.edmx.diagram
+++Model1.tt
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\model1.tt
+++Model1.Context.cs
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\model1.context.cs
+++Account_tbl.cs
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\account_tbl.cs
+++Model1.cs
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\model1.cs
+++Owner_tbl.cs
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\owner_tbl.cs
+++sysdiagram.cs
+i:{73499209-234f-4e13-9cc0-55b99b5cf8ae}:d:\users\user\desktop\מטלת בית\webapp\dal1\sysdiagram.cs
+++WebApp
+i:{00000000-0000-0000-0000-000000000000}:WebApp
+++App_Data
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\app_data\
+++App_Start
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\app_start\
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\app_start\
+++BundleConfig.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\app_start\routeconfig.cs
+++WebApiConfig.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\app_start\webapiconfig.cs
+++Areas
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\
+++Content
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\content\
+++Controllers
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\controllers\
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\controllers\
+++BankController.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\controllers\bankcontroller.cs
+++HomeController.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\controllers\homecontroller.cs
+++ValuesController.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\controllers\valuescontroller.cs
+++fonts
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\fonts\
+++glyphicons-halflings-regular.eot
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\fonts\glyphicons-halflings-regular.woff2
+++Models
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\models\
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\models\
+++Scripts
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\
+++Views
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\views\
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\
+++favicon.ico
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\favicon.ico
+++FormData.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\formdata.cs
+++Global.asax
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\global.asax
+++Web.config
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\web.config
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\views\web.config
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\web.config
+++Web.Debug.config
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\web.debug.config
+++Web.Release.config
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\web.release.config
+++Antlr3.Runtime
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++Microsoft.Web.Infrastructure
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++Newtonsoft.Json
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Configuration
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Drawing
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Net.Http.Formatting
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Net.Http.WebRequest
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Abstractions
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.ApplicationServices
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Cors
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Entity
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Helpers
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Http
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Http.Cors
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Http.WebHost
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Mvc
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Optimization
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Razor
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.Routing
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.WebPages
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.WebPages.Deployment
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++System.Web.WebPages.Razor
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++WebGrease
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:
+++HelpPage
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\
+++ModelDescriptions
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\
+++SampleGeneration
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\samplegeneration\
+++ApiDescriptionExtensions.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\apidescriptionextensions.cs
+++HelpPage.css
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\helppage.css
+++HelpPageAreaRegistration.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\helppagearearegistration.cs
+++HelpPageConfigurationExtensions.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\helppageconfigurationextensions.cs
+++XmlDocumentationProvider.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\xmldocumentationprovider.cs
+++bootstrap-theme.css
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\content\bootstrap.css
+++bootstrap.css.map
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\content\bootstrap.css.map
+++bootstrap.min.css
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\content\bootstrap.min.css.map
+++Site.css
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\content\site.css
+++bootstrap.js
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\bootstrap.js
+++bootstrap.min.js
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\scripts\modernizr-2.8.3.js
+++Bank
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\views\bank\
+++Home
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\views\home\
+++My
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\views\my\
+++Shared
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\views\shared\
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\shared\
+++_ViewStart.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\views\_viewstart.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\_viewstart.cshtml
+++Global.asax.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\global.asax.cs
+++HelpPageConfig.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\app_start\helppageconfig.cs
+++HelpController.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\controllers\helpcontroller.cs
+++CollectionModelDescription.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\collectionmodeldescription.cs
+++ComplexTypeModelDescription.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\complextypemodeldescription.cs
+++DictionaryModelDescription.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\dictionarymodeldescription.cs
+++EnumTypeModelDescription.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\enumtypemodeldescription.cs
+++EnumValueDescription.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\enumvaluedescription.cs
+++IModelDocumentationProvider.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\imodeldocumentationprovider.cs
+++KeyValuePairModelDescription.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\keyvaluepairmodeldescription.cs
+++ModelDescription.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\modeldescription.cs
+++ModelDescriptionGenerator.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\modeldescriptiongenerator.cs
+++ModelNameAttribute.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\modelnameattribute.cs
+++ModelNameHelper.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\modelnamehelper.cs
+++ParameterAnnotation.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\parameterannotation.cs
+++ParameterDescription.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\parameterdescription.cs
+++SimpleTypeModelDescription.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\modeldescriptions\simpletypemodeldescription.cs
+++HelpPageApiModel.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\models\helppageapimodel.cs
+++HelpPageSampleGenerator.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\samplegeneration\helppagesamplegenerator.cs
+++HelpPageSampleKey.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\samplegeneration\helppagesamplekey.cs
+++ImageSample.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\samplegeneration\imagesample.cs
+++InvalidSample.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\samplegeneration\invalidsample.cs
+++ObjectGenerator.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\samplegeneration\objectgenerator.cs
+++SampleDirection.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\samplegeneration\sampledirection.cs
+++TextSample.cs
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\samplegeneration\textsample.cs
+++Help
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\
+++Index.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\views\home\index.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\index.cshtml
+++_Layout.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\views\shared\_layout.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\shared\_layout.cshtml
+++Error.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\views\shared\error.cshtml
+++DisplayTemplates
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\
+++Api.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\api.cshtml
+++ResourceModel.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\resourcemodel.cshtml
+++ApiGroup.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\apigroup.cshtml
+++CollectionModelDescription.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\collectionmodeldescription.cshtml
+++ComplexTypeModelDescription.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\complextypemodeldescription.cshtml
+++DictionaryModelDescription.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\dictionarymodeldescription.cshtml
+++EnumTypeModelDescription.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\enumtypemodeldescription.cshtml
+++HelpPageApiModel.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\helppageapimodel.cshtml
+++ImageSample.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\imagesample.cshtml
+++InvalidSample.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\invalidsample.cshtml
+++KeyValuePairModelDescription.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\keyvaluepairmodeldescription.cshtml
+++ModelDescriptionLink.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\modeldescriptionlink.cshtml
+++Parameters.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\parameters.cshtml
+++Samples.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\samples.cshtml
+++SimpleTypeModelDescription.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\simpletypemodeldescription.cshtml
+++TextSample.cshtml
+i:{2b576700-d49d-4b1c-b2c7-07d0b7b780dc}:d:\users\user\desktop\מטלת בית\webapp\webapp\areas\helppage\views\help\displaytemplates\textsample.cshtml

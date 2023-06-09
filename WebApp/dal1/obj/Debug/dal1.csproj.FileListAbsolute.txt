@@ -1,0 +1,12 @@
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\bin\Debug\dal1.dll.config
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\bin\Debug\dal1.dll
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\bin\Debug\dal1.pdb
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\bin\Debug\EntityFramework.dll
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\bin\Debug\EntityFramework.xml
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\obj\Debug\dal1.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\obj\Debug\dal1.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\obj\Debug\dal1.csproj.CopyComplete
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\obj\Debug\dal1.dll
+D:\Users\User\Desktop\מטלת בית\WebApp\dal1\obj\Debug\dal1.pdb
